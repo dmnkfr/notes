@@ -2,6 +2,7 @@
 
 ## Courses
 * [__ML Course__](https://ml-course.github.io/master/notebooks/05%20-%20Ensemble%20Learning.html)
+* [__NLP Course__](https://www.nlpdemystified.org/)
 
 ## Articles
 * [__Simplify your ML Projects__](https://towardsdatascience.com/simplify-your-machine-learning-projects-ab171d19c9ef)
