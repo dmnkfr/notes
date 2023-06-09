@@ -4,6 +4,7 @@
 * [__ML Course__](https://ml-course.github.io/master/notebooks/05%20-%20Ensemble%20Learning.html)
 * [__NLP Course__](https://www.nlpdemystified.org/)
 * [__ML Material Repo__](https://github.com/khuyentran1401/Data-science)
+* [__Pandas Exercise Repo__](https://github.com/guipsamora/pandas_exercises)
 
 ## Articles
 * [__Simplify your ML Projects__](https://towardsdatascience.com/simplify-your-machine-learning-projects-ab171d19c9ef)
