@@ -29,4 +29,5 @@
 * [__Huggingface Datasets:__](https://huggingface.co/datasets) Great collection of datasets mainly for NLP in a variety of languages.
 * [__Awesome Data Repo:__](https://github.com/awesomedata/awesome-public-datasets#naturallanguage) Ever-changing list of NLP (and other) dataset resources
 * [__NLP overview on Kaggle__](https://www.kaggle.com/learn-guide/natural-language-processing)
+* [__Nvidias Megatron LM framework__](https://github.com/NVIDIA/Megatron-LM)
 
