@@ -12,7 +12,10 @@
 ## Articles
 * [__Simplify your ML Projects__](https://towardsdatascience.com/simplify-your-machine-learning-projects-ab171d19c9ef)
 * [__Why (and how) ChatGPT works__](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/?fbclid=IwAR1k0K-cQ-B8LSsCsvEWzo5zrGD4MlFq_28E80YX418O4TsAK2GRFXmFgCw)
-* [__Git for Data Scientists__](https://towardsdatascience.com/git-deep-dive-for-data-scientists-1c9cc45c7612) 
+* [__Git for Data Scientists__](https://towardsdatascience.com/git-deep-dive-for-data-scientists-1c9cc45c7612)
+* [__How to do great work__](http://www.paulgraham.com/greatwork.html)
+* [__Optimizing Workspace for Productivity, Focus, & Creativity__](https://hubermanlab.com/optimizing-workspace-for-productivity-focus-and-creativity/)
+* [__Maker's schedule, manager's schedule__](http://www.paulgraham.com/makersschedule.html)
 
 ## Software/Platforms
 * [__SublimeText__](https://www.sublimetext.com/)
