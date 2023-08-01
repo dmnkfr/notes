@@ -8,6 +8,7 @@
 * [__Pandas Exercise Repo__](https://github.com/guipsamora/pandas_exercises)
 * [__Pandas Q&A Videos__](https://github.com/justmarkham/pandas-videos)
 * [__Pandas Pycon Intro__](https://github.com/justmarkham/pycon-2019-tutorial)
+* [__Python MAchine Learning__](https://github.com/rasbt/python-machine-learning-book)
 
 ## Articles
 * [__Simplify your ML Projects__](https://towardsdatascience.com/simplify-your-machine-learning-projects-ab171d19c9ef)
