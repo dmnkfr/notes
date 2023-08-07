@@ -17,7 +17,7 @@
 * [__How to do great work__](http://www.paulgraham.com/greatwork.html)
 * [__Optimizing Workspace for Productivity, Focus, & Creativity__](https://hubermanlab.com/optimizing-workspace-for-productivity-focus-and-creativity/)
 * [__Maker's schedule, manager's schedule__](http://www.paulgraham.com/makersschedule.html)
-* [__Marteen Grootendorst on AutoGPT__](https://maartengrootendorst.substack.com/p/decoding-auto-gpt)
+* [__Maarten Grootendorst on AutoGPT__](https://maartengrootendorst.substack.com/p/decoding-auto-gpt)
 
 ## Software/Platforms
 * [__SublimeText__](https://www.sublimetext.com/)
