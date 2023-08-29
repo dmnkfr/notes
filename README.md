@@ -9,6 +9,8 @@
 * [__Pandas Q&A Videos__](https://github.com/justmarkham/pandas-videos)
 * [__Pandas Pycon Intro__](https://github.com/justmarkham/pycon-2019-tutorial)
 * [__Python Machine Learning__](https://github.com/rasbt/python-machine-learning-book)
+* [__Python ML Tricks__](https://medium.com/towards-data-science/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef)
+
 
 ## Articles
 * [__Simplify your ML Projects__](https://towardsdatascience.com/simplify-your-machine-learning-projects-ab171d19c9ef)
